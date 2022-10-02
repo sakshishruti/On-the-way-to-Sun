@@ -25,8 +25,8 @@ Website Link : https://sakshishruti.github.io/On-the-way-to-Sun/
 
 ## Project Maintainer(s)
 
-<img src="https://github.com/AishwaryaPai20/ultron/blob/main/" width="900" height="500" />
-<img src="https://github.com/AishwaryaPai20/ultron/blob/main/" width="900" height="500" />
+<img src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/images/Home.jpeg" width="900" height="400" />
+<img src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/images/Timeline.jpeg" width="900" height="400" />
 
 ## Project Maintainer(s)
 
