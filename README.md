@@ -1,6 +1,7 @@
 # On-the-way-to-Sun 
 
-## Submission by BabesGotBytes
+## Submission by Babes Got Bytes 
+
 Challenge under the AARUSH NASA APP HACKATHON
 
 ## Problem Statement: 
