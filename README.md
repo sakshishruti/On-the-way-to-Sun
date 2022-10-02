@@ -10,8 +10,8 @@ Parker Solar Probe touched the sun during its eighth flyby Sun. and this big sto
 ## Our Product :
 
 This project is used to manage wastage foods in a useful way. Every day the people are wasting lots of foods. So we have to reduce that food wastage problem through online. If anyone has wastage foods they are entering their food quantity details and their address in the site and then the admin maintain the details of food donator. The donator can create the account and whenever they are having wastage food they can login and give request to the admin. And the admin also maintain the receiver (orphanage, NGOs,…) details too. After the admin view the donator request and give the alert message like time to come and collect the food. And the admin collect foods from donator and display it on the website, the receiver register themselves and selects the item they want to buy and places the order. Then provide to nearest orphanages or poor people the delivery will be done. If the donator needs any detail about the orphanage with helping thought they can give request to the admin and collect the orphanage details. This project is food redistribution is an enormously successful social innovation that tackles food waste and food poverty. 
-
-<!-- ## Preview : 
+-->
+ ## Preview : 
 
 <p align="left"><img width=25% src="Assets/Kisan.jpg"></p>
 
@@ -32,11 +32,14 @@ This project is used to manage wastage foods in a useful way. Every day the peop
 
 <h2 align= "left"><b>Tech Stack Used : </b></h2>
 
-- ReactJS
-- Bootstrap
-- Express JS
-- MongoDB
+<h3 align= "left"><b>Website : </b></h3>
+- Html
+- CSS
+- Three Js
 
+<h3 align= "left"><b>Website : </b></h3>
+- Canva
+- Plotagon studios (for modelling)
 
 
 <h2 align= "left"><b>Project Maintainer(s)</b></h2>
@@ -46,7 +49,7 @@ This project is used to manage wastage foods in a useful way. Every day the peop
 
 <td>
 
-Harsh
+Aishwarya Pai
 
 <p align="center">
 <img src = "https://lh3.googleusercontent.com/2GRHQ3iZz33dL6_GDAUyf1S3W-daBKFNI_eSnvcg1EPN3MudAK0M9A9Aoo3Sg0mfItzQVA=s85"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
@@ -61,7 +64,7 @@ Harsh
 
 <td>
 
-Anurag Riswadkar
+Priyal Mittal
 
 <p align="center">
 <img src = "https://lh3.googleusercontent.com/BJ0sAyFl8VMKIsuz7rSp5mym0m3hjnwZ0UzNHanEQlz-ihmG8XO9i281gUxiWkNJlsVTiQ=s85"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
@@ -76,7 +79,7 @@ Anurag Riswadkar
 
 
 <td>
--->
+
 
 Sakshi Shruti
 
