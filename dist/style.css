@@ -1,0 +1,176 @@
+html {
+  width: 100%;
+  height: 100%;
+  
+  
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#11e8bb', endColorstr='#8200c9',GradientType=0 ); /* IE6-9 */
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("https://user-images.githubusercontent.com/26748614/96337246-f14d4580-1085-11eb-8793-a86d929e034d.jpg");
+  background-size: cover;
+  backdrop-filter:  brightness(50%);
+  font-family:Arial, Helvetica, sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  height: 60px;
+  padding: 0 15px;
+  background: rgba(44, 43, 43, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  position: fixed;
+    top:0;
+}
+header nav {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+header nav a, header nav span {
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+  z-index: 1;
+  width: 80px;
+  padding: 8px 0px;
+  text-align: center;
+  font-weight: bold;
+  transition: left .3s ease 0s;
+}
+header nav span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #f88445;
+  height: 100%;
+  z-index: 0;
+  border-radius: 8px;
+}
+header nav a:nth-of-type(1):hover ~ span {
+  left: 0px;
+}
+header nav a:nth-of-type(2):hover ~ span {
+  left: 80px;
+}
+header nav a:nth-of-type(3):hover ~ span {
+  left: 160px;
+}
+header nav a:nth-of-type(4):hover ~ span {
+  left: 240px;
+}
+header nav a:nth-of-type(5):hover ~ span {
+  left: 320px;
+}
+
+
+
+
+
+.button-33 {
+  background-color: #f19935;
+  border-radius: 100px;
+  box-shadow: rgba(238, 203, 133, 0.2) 0 -25px 18px -14px inset,rgba(242, 184, 70, 0.2) 0 1px 2px,rgba(242, 184, 70, 0.2) 0 2px 4px,rgba(242, 184, 70, 0.2) 0 4px 8px,rgba(242, 184, 70, 0.2) 0 8px 16px,rgba(242, 184, 70, 0.2) 0 16px 32px;
+  color: rgb(29, 30, 29);
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 25px;
+  font-weight:20px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  position: absolute;
+  margin-top: 350px;
+  margin-left: 1300px;
+ 
+}
+
+.button-33:hover {
+  box-shadow: rgba(242, 184, 70, 0.2) 0 -25px 18px -14px inset,rgba(242, 184, 70, 0.2) 0 1px 2px,rgba(242, 184, 70, 0.2) 0 2px 4px,rgba(242, 184, 70, 0.2) 0 4px 8px,rgba(242, 184, 70, 0.2) 0 8px 16px,rgba(242, 184, 70, 0.2) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+}
+
+.title{
+  color: aliceblue;
+  font-size: 55px;
+  margin-top: 10px;
+  display: flex;
+  transform: scale(0.94);
+  animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
+  
+  /* position:absolute; */
+  
+}
+@keyframes scale {
+  100% {
+    transform: scale(1);
+  }
+}
+span {
+  display: inline-block;
+  opacity: 0;
+  filter: blur(4px);
+}
+span:nth-child(1) {
+  animation: fade-in 0.8s 0.1s forwards cubic-bezier(0.11, 0, 0.5, 0);
+}
+
+span:nth-child(2) {
+  animation: fade-in 0.8s 0.2s forwards cubic-bezier(0.11, 0, 0.5, 0);
+}
+
+span:nth-child(3) {
+  animation: fade-in 0.8s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
+}
+
+span:nth-child(4) {
+  animation: fade-in 0.8s 0.4s forwards cubic-bezier(0.11, 0, 0.5, 0);
+}
+
+span:nth-child(5) {
+  animation: fade-in 0.8s 0.5s forwards cubic-bezier(0.11, 0, 0.5, 0);
+}
+
+span:nth-child(6) {
+  animation: fade-in 0.8s 0.6s forwards cubic-bezier(0.11, 0, 0.5, 0);
+}
+@keyframes fade-in {
+  100% {
+    opacity: 1;
+    filter: blur(0);
+  }
+}
+
+.subtitle{
+  color:aliceblue;
+  margin-top:20px;
+  font-size: 20px;
+  display: flex;
+  position:absolute;
+  line-height: 2rem;
+}
+
+.content{
+  position: absolute;
+  margin-top:250px;
+  margin-left:10px;
+
+}

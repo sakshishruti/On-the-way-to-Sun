@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+html { 
+    /* background: url("https://wallpapercave.com/wp/r9PuMlM.jpg") no-repeat center center fixed;  
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; */
+}
+
+body{
+    font-family: sans-serif;
+    
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    font-weight: 400;
+    color: white;
+   
+}
+
+.container{
+    padding: 2rem;
+    padding-bottom: 400px;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+.top-section{
+    position: relative;
+    text-align: center;
+    padding: 4rem 0;
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+
+.timeline{
+    position: relative;
+    min-height: 150px;
+    
+
+}
+
+
+
+.line{
+    position: absolute;
+    z-index: 2;
+    left: calc(50% - 1px);
+    width: 2px;
+    top: -50px;
+    bottom: -50px;
+    background-color: white;
+    display: none;
+
+}
+
+.line:before,
+.line:after{
+    position: absolute;
+    display: block;
+    content: '';
+    height: 1rem;
+    width: 1rem;
+    border-radius: 50%;
+    background-color: white;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.line:after{
+    bottom: 0;
+}
+
+.section{
+    display: flex;
+    opacity: 0;
+    transform: translateX(-100%);
+    transition: 600ms ease;
+    position: relative;
+    z-index: 1;
+    margin: 50px 0;
+    padding: 1rem;
+    border-radius: 1rem;
+    align-items: center;
+    min-height: 300px;
+}
+
+
+.section:nth-child(odd){
+    flex-direction: row-reverse;
+    transform: translateX(100%);
+}
+
+
+.bead{
+    position: absolute;
+    display: block;
+    height: 1rem;
+    width: 1rem;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    left: 50%;
+    top: 20%;
+    transform: translateX(-50%);
+}
+
+.content{
+    width: calc(50% - 2rem);
+   
+    
+    /* background-color: rgb(84, 132, 132);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; */
+    align-items: center;
+    /* background-color: #000; */
+    border-radius: 15px;
+    align-items: center;
+    padding-left: 5px;
+    background: rgb(86, 115, 135,0.4);
+    
+    
+
+}
+
+.show-me:nth-child(n){
+    transform: none;
+    opacity: 1;
+}
+
+h1{
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+
+
+.content .image iframe{
+   
+    border-radius: 15px;
+    width: auto;
+    height: auto;
+    margin-top:8px;
+    margin-left: 15px;
+    filter: drop-shadow(4px 4px 10px rgba(0,0,0,.5));
+    justify-content: center;
+    align-items: center;
+    
+       
+}
+
+.card-content{
+    align-items: center;
+    justify-self: center;
+    margin-left: 15px;
+    
+}
+
+header {
+    width: 100%;
+    height: 60px;
+    padding: 0 15px;
+    background: rgba(44, 43, 43, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    /* box-sizing: border-box; */
+    position: fixed;
+    top:0;
+  }
+  header nav {
+    display: flex;
+    align-items: center;
+    position: relative;
+    box-sizing: border-box;
+  }
+  header nav a, header nav span {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    z-index: 1;
+    width: 80px;
+    padding: 8px 0px;
+    text-align: center;
+    font-weight: bold;
+    transition: left .3s ease 0s;
+    
+    box-sizing: border-box;
+  }
+  header nav span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #f88445;
+    height: 100%;
+    z-index: 0;
+    border-radius: 8px;
+  }
+  header nav a:nth-of-type(1):hover ~ span {
+    left: 0px;
+  }
+  header nav a:nth-of-type(2):hover ~ span {
+    left: 80px;
+  }
+  header nav a:nth-of-type(3):hover ~ span {
+    left: 160px;
+  }
+  header nav a:nth-of-type(4):hover ~ span {
+    left: 240px;
+  }
+  header nav a:nth-of-type(5):hover ~ span {
+    left: 320px;
+  }
+  
+  
+#myVideo {
+    /* position: fixed; */
+    /* right: 0;
+    bottom: 0; */
+    /* left: 0;
+    top: 0; */
+    /* min-width: 100%;
+    min-height: 100%; */
+    width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+  }
