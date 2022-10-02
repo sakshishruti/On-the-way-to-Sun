@@ -2,7 +2,7 @@
 
 ## Submission by BabesGotBytes
 Challenge under the AARUSH NASA APP HACKATHON
-
+<!--
 ## Problem Statement: 
 
 In the proposed algorithm an efficient method for the creating a link between the donor and the receiver and management of delivery process to reduce the food wastage in India.
@@ -76,7 +76,7 @@ Anurag Riswadkar
 
 
 <td>
-
+-->
 
 Sakshi Shruti
 
