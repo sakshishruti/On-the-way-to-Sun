@@ -23,12 +23,16 @@ Website Link : https://sakshishruti.github.io/On-the-way-to-Sun/
 - Canva
 - Plotagon studios (for 3D modelling)
 
+## Project Maintainer(s)
+
+<img src="https://github.com/AishwaryaPai20/ultron/blob/main/" width="900" height="500" />
+<img src="https://github.com/AishwaryaPai20/ultron/blob/main/" width="900" height="500" />
 
 ## Project Maintainer(s)
 
-<img align="left" alt="Aishwarya Pai" width="80px" height="80px" src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/dist/aishwarya.jpeg" style="padding-right:10px;" />
-<img align="left" alt="Arpita Singh" width="80px" height="80px" src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/dist/arpita.jpeg" style="padding-right:10px;" />
-<img align="left" alt="Sakshi Shruti" width="80px" height="80px" src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/dist/sakshi.jpg" style="padding-right:10px;" />
-<img align="left" alt="Vaidehi Jadhao" width="80px" height="80px" src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/dist/vaidehi.jpeg" style="padding-right:10px;" />
-<img align="left" alt="Ukti Agrawal" width="80px" height="80px" src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/dist/ukti.jpeg" style="padding-right:10px;" />
-<img align="left" alt="Priyal Mittal" width="80px" height="80px" src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/dist/priyal.jpeg" style="padding-right:10px;" />
+<img align="left" alt="Aishwarya Pai" width="80px" height="80px" src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/aishwarya.jpeg" style="padding-right:10px;" />
+<img align="left" alt="Arpita Singh" width="80px" height="80px" src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/arpita.jpeg" style="padding-right:10px;" />
+<img align="left" alt="Sakshi Shruti" width="80px" height="80px" src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/sakshi.jpg" style="padding-right:10px;" />
+<img align="left" alt="Vaidehi Jadhao" width="80px" height="80px" src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/vaidehi.jpeg" style="padding-right:10px;" />
+<img align="left" alt="Ukti Agrawal" width="80px" height="80px" src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/ukti.jpeg" style="padding-right:10px;" />
+<img align="left" alt="Priyal Mittal" width="80px" height="80px" src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/priyal.jpeg" style="padding-right:10px;" />
