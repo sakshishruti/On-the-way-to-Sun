@@ -11,7 +11,7 @@ Parker Solar Probe touched the sun during its eighth flyby Sun. and this big sto
 Our team developed a website that provides insightful information about the Parker Solar Probe and its journey to make observations of the outer corona of the Sun. The website provides a user friendly experience to enable people to easily access information and learn more about the only object to ever "touch" the Sun. The website also depicts seven different videos all made by our team that aim to graphically illustrate the various events surrounding the journey of the Probe.
 
 ## Have Fun with our Product :
-Website Link : Click Here
+Website Link : https://sakshishruti.github.io/On-the-way-to-Sun/
 
 ## Tech Stack Used :
 
