@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # On The Way To The Sun
 
 ## Submission by Babes Got Bytes
@@ -31,7 +29,3 @@ Website Link : Click Here
 <img align="left" alt="Vaidehi Jadhao" width="80px" height="80px" src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/dist/vaidehi.jpeg" style="padding-right:10px;" />
 <img align="left" alt="Ukti Agrawal" width="80px" height="80px" src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/dist/ukti.jpeg" style="padding-right:10px;" />
 <img align="left" alt="Priyal Mittal" width="80px" height="80px" src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/dist/priyal.jpeg" style="padding-right:10px;" />
-
-
-
->>>>>>> e86ecd9fa392abf7fd25c9b8505114cd6cb17b4f
