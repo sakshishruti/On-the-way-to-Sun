@@ -2,11 +2,11 @@
 
 ## Submission by BabesGotBytes
 Challenge under the AARUSH NASA APP HACKATHON
-<!--
+
 ## Problem Statement: 
 
-In the proposed algorithm an efficient method for the creating a link between the donor and the receiver and management of delivery process to reduce the food wastage in India.
-
+Parker Solar Probe touched the sun during its eighth flyby Sun. and this big story of Parker's record-breaking journey is our task to be expressed efficiently by us
+<!--
 ## Our Product :
 
 This project is used to manage wastage foods in a useful way. Every day the people are wasting lots of foods. So we have to reduce that food wastage problem through online. If anyone has wastage foods they are entering their food quantity details and their address in the site and then the admin maintain the details of food donator. The donator can create the account and whenever they are having wastage food they can login and give request to the admin. And the admin also maintain the receiver (orphanage, NGOs,…) details too. After the admin view the donator request and give the alert message like time to come and collect the food. And the admin collect foods from donator and display it on the website, the receiver register themselves and selects the item they want to buy and places the order. Then provide to nearest orphanages or poor people the delivery will be done. If the donator needs any detail about the orphanage with helping thought they can give request to the admin and collect the orphanage details. This project is food redistribution is an enormously successful social innovation that tackles food waste and food poverty. 
