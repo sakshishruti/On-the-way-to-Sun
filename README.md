@@ -18,7 +18,7 @@ Website Link : Click Here
 - Three Js
 ### Website :
 - Canva
-- Plotagon studios (for modelling)
+- Plotagon studios (for modelling(3D))
 
 
 ## Project Maintainer(s)
