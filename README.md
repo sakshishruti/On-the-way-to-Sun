@@ -33,12 +33,12 @@ This project is used to manage wastage foods in a useful way. Every day the peop
 <h2 align= "left"><b>Tech Stack Used : </b></h2>
 
 <h3 align= "left"><b>Website : </b></h3>
-- Html
-- CSS
+- Html <br>
+- CSS <br>
 - Three Js
 
 <h3 align= "left"><b>Website : </b></h3>
-- Canva
+- Canva <br>
 - Plotagon studios (for modelling)
 
 
@@ -55,8 +55,8 @@ Aishwarya Pai
 <img src = "https://lh3.googleusercontent.com/2GRHQ3iZz33dL6_GDAUyf1S3W-daBKFNI_eSnvcg1EPN3MudAK0M9A9Aoo3Sg0mfItzQVA=s85"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
-<a href = "https://github.com/hackerharsh-77"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "linkedin.com/in/harsh-r-594195200">
+<a href = "https://github.com/AishwaryaPai20"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "linkedin.com/in/ashpi20">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
@@ -70,8 +70,8 @@ Priyal Mittal
 <img src = "https://lh3.googleusercontent.com/BJ0sAyFl8VMKIsuz7rSp5mym0m3hjnwZ0UzNHanEQlz-ihmG8XO9i281gUxiWkNJlsVTiQ=s85"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
-<a href = "https://github.com/AnuragR31"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/anurag-riswadkar-519589228">
+<a href = "https://github.com/priyal-tech"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/priyal-mittal-698212204/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
@@ -92,10 +92,10 @@ Sakshi Shruti
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
-</td>
+</td>  
  
  <td>
-  <br>
+
 
 Vaidehi Jadhao
 
@@ -103,8 +103,8 @@ Vaidehi Jadhao
 <img src = "https://lh3.googleusercontent.com/2GRHQ3iZz33dL6_GDAUyf1S3W-daBKFNI_eSnvcg1EPN3MudAK0M9A9Aoo3Sg0mfItzQVA=s85"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
-<a href = "https://github.com/hackerharsh-77"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "linkedin.com/in/harsh-r-594195200">
+<a href = "https://github.com/VaidehiJadhao"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/vaidehi-jadhao-8b29a5207/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
@@ -118,8 +118,8 @@ Arpita Singh
 <img src = "https://lh3.googleusercontent.com/2GRHQ3iZz33dL6_GDAUyf1S3W-daBKFNI_eSnvcg1EPN3MudAK0M9A9Aoo3Sg0mfItzQVA=s85"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
-<a href = "https://github.com/hackerharsh-77"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "linkedin.com/in/harsh-r-594195200">
+<a href = "https://github.com/arpitasingh13"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/arpitasingh1301/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
@@ -133,8 +133,8 @@ Ukti Aggarwal
 <img src = "https://lh3.googleusercontent.com/2GRHQ3iZz33dL6_GDAUyf1S3W-daBKFNI_eSnvcg1EPN3MudAK0M9A9Aoo3Sg0mfItzQVA=s85"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
-<a href = "https://github.com/hackerharsh-77"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "linkedin.com/in/harsh-r-594195200">
+<a href = "https://github.com/ukti2205"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/ukti-agrawal-990854214/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
