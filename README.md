@@ -22,7 +22,7 @@ This project is used to manage wastage foods in a useful way. Every day the peop
 <img width=20% src="Assets/ScreenshotApp4.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <img width=20% src="Assets/ScreenshotApp5.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <img width=20% src="Assets/ScreenshotApp6.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-</p> -->
+</p> 
 
 <h2 align= "left"><b>Have Fun with our Product : </b></h2>
 
