@@ -23,12 +23,12 @@ Website Link : https://sakshishruti.github.io/On-the-way-to-Sun/
 - Canva
 - Plotagon studios (for 3D modelling)
 
-## Project Maintainer(s)
+## ScreenShots
 
 <img src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/images/Home.jpeg" width="900" height="400" />
 <img src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/images/Timeline.jpeg" width="900" height="400" />
 
-## Project Maintainer(s)
+## Team Members
 
 <img align="left" alt="Aishwarya Pai" width="80px" height="80px" src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/aishwarya.jpeg" style="padding-right:10px;" />
 <img align="left" alt="Arpita Singh" width="80px" height="80px" src="https://github.com/sakshishruti/On-the-way-to-Sun/blob/main/arpita.jpeg" style="padding-right:10px;" />
