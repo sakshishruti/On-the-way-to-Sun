@@ -2,7 +2,7 @@
 
 ## Submission by Babes Got Bytes
 
-Challenge under the AARUSH NASA APP HACKATHON
+Challenge under the AARUSH - NASA APP HACKATHON
 
 ## Problem Statement:
 Parker Solar Probe touched the sun during its eighth flyby Sun. and this big story of Parker's record-breaking journey is our task to be expressed efficiently by us
